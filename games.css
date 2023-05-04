@@ -21,6 +21,7 @@ main {
 #adivinanza {
     font-size: 24px;
     margin-bottom: 20px;
+    background-color: rgba(0, 0, 0, 0.8);
 }
 #respuestaUsuario {
     padding: 10px;
