@@ -9,6 +9,17 @@ Todo archivo .xml necesita una **etiqueta raiz**
 
 Hay varios tipos de etiquetas, las **pares** y **impares**.
 
+## Código XML
+```XML 
+<?xml version="1.0" enconding="UTF-8" ?>
+<!-- COMENTARIO -->
+<character>
+	<name>Nombre</name>
+	<surname>Apellido</surname>
+	<age years="0" />
+</character>
+```
+
 ## Titulo 1
 
 ## Titulo 2
