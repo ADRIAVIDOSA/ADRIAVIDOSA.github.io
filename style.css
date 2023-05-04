@@ -4,6 +4,10 @@
   font-weight: normal;
   font-style: normal;
 }
+html {
+  zoom: 125%;
+}
+
 
 .rubik {
   font-family: 'Rubik', sans-serif;
@@ -137,4 +141,5 @@ main {
 a:link, a:visited, a:hover, a:active {
 	color: inherit;
 	text-decoration: none;
+  font-size: 30px;
 }
