@@ -76,7 +76,7 @@ En esta asignatura aprenderemos HTML5, que es html Life Scheme.
 
 	<footer>
 		<h2>Información extra<h2>
-		<p>Taratara (c) 2023</p>
+		<p>Aty (c) 2023</p>
 	</footer>
 
 </body>
